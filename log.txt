@@ -1,0 +1,21 @@
+Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: do-what-it-says. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: movie-this. Movie or Song Title: muppets. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: hello. Movie or Song info: undefined.Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: movie-this. Movie or Song Title: armagedon. Movie or Song info: undefined.Argument: movie-this. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: lucky. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: undefined. Movie or Song info: undefined.
+Search String:my-tweets,
+Search String:my-tweets,
+Search String:my-tweets,
+Search String:spotify-this-song,roar
+Search String:spotify-this-song,
+Search String:spotify-this-song,roar
+Search String:spotify-this-song,roar
+Search String:movie-this,home alone
+Search String:movie-this,home alne
+Search String:movie-this,armagedon
+Search String:my-tweets,
+Search String:my-tweets,
+Search String:movie-this,armagedon
+Search String:movie-this,mr. nobody
+Search String:movie-this,mr nobody
+Search String:movie-this,the lorax
+Search String:movie-this,mr. nobody
+Search String:movie-this,mr nobody
+Your search:my-tweets,
+Your search:spotify-this-song,roarArgument: spotify-this-song. Movie or Song Title: roar. Movie or Song info: undefined.Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: roar. Movie or Song info: undefined.Argument: movie-this. Movie or Song Title: home. Movie or Song info: alone.
